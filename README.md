@@ -2,6 +2,11 @@
 
 A full-stack product analytics dashboard built to demonstrate PM and data analyst skills.
 
+## Live Demo
+- **Frontend:**https://startup-metrics-dashboard-eedm0c8yo-sahil-d-projects.vercel.app
+- **Backend API:** https://startup-metrics-dashboard-076v.onrender.com
+- **API Docs:** https://startup-metrics-dashboard-076v.onrender.com/docs
+
 ## What it does
 
 Tracks key startup health metrics with real SQL queries, a REST API, and an interactive React frontend.
