@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { LineChart, Line, BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
 
-const API = "http://localhost:8000/api";
+const API = "https://startup-metrics-dashboard-076v.onrender.com/api";
 
 function MetricCard({ label, value, sub, subColor = "#888780" }) {
   return (
